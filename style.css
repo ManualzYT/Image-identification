@@ -1,0 +1,33 @@
+body
+  {
+    color: white;
+    background: darkcyan;
+  }
+  .heading
+  {
+    width: 70%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+
+
+
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: brown;
+    font-size: 23px;
+  }
+
+  p{
+      font-size: 23px;
+      font-family:'Times New Roman';
+  }
+  
+  label{
+      font-size: 23px;
+  }
